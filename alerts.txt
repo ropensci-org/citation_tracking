@@ -4,7 +4,7 @@
 "crminer" OR "datastorr" OR "dbhydroR" OR "dirdf" OR "ecoretriever" OR "eechidna"
 "emldown" OR "etseed" OR "ezknitr" OR "FedData" OR "genbankr" 
 "geojsonio" OR "geolocart" OR "geoops" OR "getCRUCLdata" OR "getlandsat" OR "gistr"
-"git2r" OR "googleLanguageR" OR "GSODR" OR "gtfsr" OR "hddtools" OR "helminthR"
+"git2r" OR "googleLanguageR" OR "GSODR" OR "gtfsr" OR "helminthR"
 "iheatmapr" OR "isdparser" OR "jaod" OR "lingtypology" OR "microdemic"
 "monkeylearn" OR "mregions" OR "natserv" OR "nneo" OR "opencage"
 "originr" OR "osmdata" OR "osmplotr" OR "packagemetrics" OR "pangaear"

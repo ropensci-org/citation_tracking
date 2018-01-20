@@ -35,7 +35,6 @@ git2r
 googleLanguageR
 GSODR
 gtfsr
-hddtools
 helminthR
 iheatmapr
 isdparser
