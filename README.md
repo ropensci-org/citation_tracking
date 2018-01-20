@@ -8,4 +8,4 @@ Right now this is done through Google Scholar alerts. The packages tracked are i
 - excluding patents
 - excluding citations
 
-I get email notifications - disregard false alarms - for real hits, collect the pdf if there is one, and put an entry in our list of citations. Eventually citations end up in our API at <https://roapi.org>
+I get email notifications - disregard false alarms - for real hits, collect the pdf if there is one, and put an entry in our list of citations. Eventually citations end up in our API at <https://roapi.org/>
