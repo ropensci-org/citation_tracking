@@ -129,7 +129,6 @@ datapack
 DoOR.data
 DoOR.functions
 drake
-dvn
 ecoengine
 elastic
 EML
