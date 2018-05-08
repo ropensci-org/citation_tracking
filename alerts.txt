@@ -22,7 +22,7 @@
 "unrtf" OR "webchem" OR "webmockr" 
 "wikitaxa" OR "worrms" OR "writexl"
 "rentrez"
-"cRegulome" OR "datapack" OR "DoOR.data" OR "DoOR.functions"
+("cRegulome" OR "datapack" OR "DoOR.data" OR "DoOR.functions") AND "r development core team"
 "drake" "landau" "r development core team"
 "ecoengine" "r development core team" OR "r core team"
 "elastic" "chamberlain" "r development core team" OR "r core team"
