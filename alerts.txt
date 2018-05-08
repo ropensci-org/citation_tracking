@@ -49,7 +49,7 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "magick" "ooms"
 "mapr" OR "neotoma" OR "nlmr"
 "oai" "chamberlain" "package"
-"onekp" OR "paleobioDB" OR "plater"  "package"
+("onekp" OR "paleobioDB") AND "r development core team"
 "pleiades" "R development core team" -"pleiades publishing"
 "plotly" ("package" OR "sievert")
 "pubchunks" OR "rbraries"
