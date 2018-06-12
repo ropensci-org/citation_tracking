@@ -202,3 +202,12 @@ webmockr
 wellknown
 wicket
 xslt
+auk
+nomisr
+qualtRics
+vcr
+EndoMineR
+genbankr
+PostcodesioR
+suppdata
+rppo
