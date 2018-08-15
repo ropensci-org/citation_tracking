@@ -211,3 +211,12 @@ genbankr
 PostcodesioR
 suppdata
 rppo
+antanym
+arkdb
+epubr
+hddtools
+infx
+phylogram
+phylotar
+skynet
+smapr
