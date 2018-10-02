@@ -220,3 +220,6 @@ phylogram
 phylotar
 skynet
 smapr
+piggyback
+outcomerate
+colocr
