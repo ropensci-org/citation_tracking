@@ -93,4 +93,10 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "piggyback" "boettiger"
 "outcomerate"
 "colocr"
-
+"spatsoc"
+"tiler" "Leonawicz"
+"CoordinateCleaner"
+"MODIStsp"
+"nasapower" 
+"restez" "Bennett" "package"
+"rcites"
