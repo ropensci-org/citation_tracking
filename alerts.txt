@@ -1,4 +1,4 @@
-"antiword" OR "assertr" OR "bikedata" OR "biomartr" OR "bittrex" OR "bomrang"
+"antiword" OR "assertr" OR "bikedata" OR "biomartr" OR "bomrang"
 "brranching" OR "camsRad" OR "chromer" OR "ckanr" 
 "clifro" OR "cmipr" OR "codemetar" OR "comtradr" OR "convertr" OR "crevents"
 "crminer" OR "datastorr" OR "dbhydroR" OR "dirdf" OR "ecoretriever" OR "eechidna"

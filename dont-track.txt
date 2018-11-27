@@ -5,6 +5,7 @@ aspacer
 atomize
 available
 binomen
+bittrex
 bmc
 canpaginate
 cartographer

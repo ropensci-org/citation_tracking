@@ -2,7 +2,6 @@ antiword
 assertr
 bikedata
 biomartr
-bittrex
 bomrang
 brranching
 camsRad
