@@ -35,7 +35,7 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "essurvey" OR "europepmc" OR "fauxpas" OR "FedData" AND "r development core team" OR "r core team"
 "finch" "chamberlain" AND "r development core team" OR "r core team" AND "package"
 "fingertipsR"
-"fulltext" "chamberlain" AND "r development core team" OR "r core team" AND "package" -"download fulltext"
+"fulltext" AND "r development core team" OR "r core team" AND "package" -"download fulltext"
 "gender" "mullen" "package" AND "r development core team" OR "r core team" 
 "geoparser" OR "gutenbergr" OR "historydata" OR "hoardr" AND "package" AND "r development core team" OR "r core team" 
 "graphql" "ooms"
