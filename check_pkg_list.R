@@ -14,7 +14,7 @@ url <- "https://raw.githubusercontent.com/ropensci/roregistry/gh-pages/registry.
 df <- fromJSON(url)
 (pkgs <- tbl_df(df$packages) %>%
   # filter(on_cran, !cran_archived) %>%
-  filter(!cran_archived) %>%
+  # filter(!cran_archived) %>%
   filter(name != "pleiades") %>%
   .$name %>% sort %>% tolower)
 

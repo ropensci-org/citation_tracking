@@ -43,7 +43,6 @@ microdemic
 monkeylearn
 mregions
 natserv
-nneo
 opencage
 originr
 osmdata
@@ -229,3 +228,7 @@ MODIStsp
 nasapower
 restez
 rcites
+bib2df
+wateRinfo
+rdhs
+treeStartR
