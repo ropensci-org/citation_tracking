@@ -104,3 +104,10 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "wateRinfo" "Hoey"
 "rdhs" "watson" "package"
 "treeStartR"
+"nlrx" "NetLogo"
+"qpdf" "ooms"
+"stats19" "package" "lovelace"
+"handlr" "chamberlain"
+"rcitoid"
+"vitae" "O'Hara-Wild"
+"Bilderbeek" ("beautier" OR "tracerer" OR "babette" OR "beastier" OR "mauricer" OR "lumier")

@@ -232,3 +232,15 @@ bib2df
 wateRinfo
 rdhs
 treeStartR
+nlrx
+qpdf
+stats19
+handlr
+rcitoid
+vitae
+beautier
+tracerer
+babette
+beastier
+mauricer
+lumier
