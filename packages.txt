@@ -156,7 +156,6 @@ jqr
 jsonld
 jsonvalidate
 landscapetools
-lawn
 magick
 mapr
 neotoma

@@ -45,7 +45,6 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "jqr" "package"
 "jsonvalidate" OR "landscapetools"
 "jsonld" "Ooms"
-"lawn" "chamberlain" "package"
 "magick" "ooms"
 "neotoma" "Goring" "package"
 "nlmr" "Sciaini"
