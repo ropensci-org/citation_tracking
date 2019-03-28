@@ -53,7 +53,6 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "pleiades" "R development core team" -"pleiades publishing"
 "plotly" ("package" OR "sievert")
 "pubchunks" OR "rbraries"
-"prism" "package" "r development core team"
 "rAvis" "package"
 "rdflib" "boettiger"
 "refimpact" OR "RefManageR" "package"

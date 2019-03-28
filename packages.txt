@@ -166,7 +166,6 @@ paleobioDB
 plater
 pleiades
 plotly
-prism
 pubchunks
 rAvis
 rbraries
