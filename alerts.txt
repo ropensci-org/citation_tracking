@@ -109,3 +109,9 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "rcitoid"
 "vitae" "O'Hara-Wild"
 "Bilderbeek" ("beautier" OR "tracerer" OR "babette" OR "beastier" OR "mauricer" OR "lumier")
+"emld" "package"
+"ramlegacy" "package"
+"Rpolyhedra"
+"tacmagic"
+"virtuoso" "package" "database" "rdf" "boettiger"
+"tradestatistics" "package"
