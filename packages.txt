@@ -248,3 +248,11 @@ Rpolyhedra
 tacmagic
 virtuoso
 tradestatistics
+MODISTools
+MtreeRing
+nbaR
+cde
+conditionz
+rromeo
+tidync
+tidync
