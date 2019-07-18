@@ -93,3 +93,5 @@ rgpdd
 av
 lawn
 prism
+refimpact
+RefManageR

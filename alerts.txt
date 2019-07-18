@@ -55,7 +55,6 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "pubchunks" OR "rbraries"
 "rAvis" "package"
 "rdflib" "boettiger"
-"refimpact" OR "RefManageR" "package"
 "riem" OR "rif" OR "rinat" OR "ritis" OR "RNeXML" "r development core team"
 "rnpn" OR "rtika" OR "seaaroundus"
 "sofa" "couchdb"

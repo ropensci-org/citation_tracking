@@ -170,8 +170,6 @@ pubchunks
 rAvis
 rbraries
 rdflib
-refimpact
-RefManageR
 riem
 rif
 rinat
