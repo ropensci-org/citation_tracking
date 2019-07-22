@@ -121,3 +121,6 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "conditionz"
 "rromeo"
 "tidync"
+"git2rdata"
+"gitignore" "Massicotte"
+"grainchanger"
