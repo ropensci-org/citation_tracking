@@ -186,7 +186,6 @@ taxizedb
 tesseract
 tidyhydat
 tokenizers
-traits
 treebase
 treeio
 USAboundaries

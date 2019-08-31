@@ -111,3 +111,4 @@ bindertools
 blogyaml
 containerit
 flipper
+traits
