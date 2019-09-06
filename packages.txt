@@ -252,3 +252,14 @@ cde
 conditionz
 rromeo
 tidync
+UCSCXenaTools
+citesdb
+DataSpaceR
+rnassqs
+opencv
+tidypmc
+citecorp
+git2rdata
+gitignore
+grainchanger
+popler
