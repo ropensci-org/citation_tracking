@@ -111,7 +111,6 @@ webmockr
 wikitaxa
 worrms
 writexl
-AntWeb
 aRxiv
 bold
 bowerbird
