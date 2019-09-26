@@ -64,7 +64,7 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "taxizedb" OR "tidyhydat" OR "tokenizers" "package"
 "taxa" "r development core team" "foster" "chamberlain"
 "tesseract" "ooms"
-"treebase" OR "treeio" OR "USAboundaries" OR "visdat" "package"
+"treeio" OR "USAboundaries" OR "visdat" "package"
 "weathercan"
 "webmockr" OR "wellknown" "r development core team"
 "wicket" "keyes"
