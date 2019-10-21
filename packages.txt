@@ -261,3 +261,6 @@ git2rdata
 gitignore
 grainchanger
 popler
+rmangal
+rtweet
+chlorpromazineR
