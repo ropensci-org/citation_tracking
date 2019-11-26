@@ -30,7 +30,6 @@
 "bowerbird" AND "Raymond" AND "package"
 "ccafs" AND "Chamberlain" AND "package"
 aRxiv broman AND "r development core team" OR "r core team" -qtl
-"bold" "chamberlain" AND "r development core team" OR "r core team" -"bold values" -"in bold" -"bold indicates" -"bold numbers" -"bold type" -"bold lines" -"bold characters"
 "charlatan" "chamberlain" AND "r development core team" OR "r core team"
 "cld2 " OR "cld3" OR "cleanEHR" AND "r development core team" OR "r core team"
 "essurvey" OR "europepmc" OR "fauxpas" OR "FedData" AND "r development core team" OR "r core team"
@@ -52,7 +51,6 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "oai" "chamberlain" "package"
 ("onekp" OR "paleobioDB") AND "r development core team"
 "pleiades" "R development core team" -"pleiades publishing"
-"plotly" ("package" OR "sievert")
 "pubchunks" OR "rbraries"
 "rAvis" "package"
 "rdflib" "boettiger"

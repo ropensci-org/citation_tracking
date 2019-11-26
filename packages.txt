@@ -112,7 +112,6 @@ wikitaxa
 worrms
 writexl
 aRxiv
-bold
 bowerbird
 ccafs
 charlatan
@@ -164,7 +163,6 @@ onekp
 paleobioDB
 plater
 pleiades
-plotly
 pubchunks
 rAvis
 rbraries

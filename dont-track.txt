@@ -114,3 +114,5 @@ flipper
 traits
 AntWeb
 treebase
+plotly
+bold
