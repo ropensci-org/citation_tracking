@@ -49,7 +49,6 @@ osmdata
 osmplotr
 packagemetrics
 pangaear
-patentsview
 pdftools
 phylocomr
 rAltmetric

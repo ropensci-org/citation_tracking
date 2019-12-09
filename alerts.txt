@@ -8,7 +8,7 @@
 "iheatmapr" OR "isdparser" OR "jaod" OR "lingtypology" OR "microdemic"
 "monkeylearn" OR "mregions" OR "natserv" OR "opencage"
 "originr" OR "osmdata" OR "osmplotr" OR "packagemetrics" OR "pangaear"
-"patentsview" OR "pdftools" OR "phylocomr" OR "rAltmetric" OR "randgeo"
+"pdftools" OR "phylocomr" OR "rAltmetric" OR "randgeo"
 "rbace" OR "rbhl" OR "rbison" OR "rcoreoa" OR "rcrossref"
 "rdatacite" OR "rdataretriever" OR "rdefra" OR "rdopa" OR "rdpla" OR "rdryad"
 "rebird" OR "RedisAPI" OR "rerddap" OR "reuropeana"
