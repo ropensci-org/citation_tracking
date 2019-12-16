@@ -134,3 +134,8 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "rtweet" "Kearney"
 "chlorpromazineR"
 "eia" "Leonawicz"
+"c14bazAAR"
+"workloopR"
+"baRcodeR" "Wu" "package"
+"opentripplanner" "Morgan" "package"
+"photosearcher"

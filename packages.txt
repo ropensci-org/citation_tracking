@@ -262,3 +262,8 @@ rmangal
 rtweet
 chlorpromazineR
 eia
+c14bazAAR
+workloopR
+baRcodeR
+opentripplanner
+photosearcher
