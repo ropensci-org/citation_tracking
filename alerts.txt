@@ -139,3 +139,5 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "baRcodeR" "Wu" "package"
 "opentripplanner" "Morgan" "package"
 "photosearcher"
+"outsider" "package" "Bennett" "r development core team"
+"refsplitr"

@@ -267,3 +267,5 @@ workloopR
 baRcodeR
 opentripplanner
 photosearcher
+outsider
+refsplitr
