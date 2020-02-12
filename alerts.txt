@@ -55,7 +55,7 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "rAvis" "package"
 "rdflib" "boettiger"
 "riem" OR "rif" OR "rinat" OR "ritis" OR "RNeXML" "r development core team"
-"rnpn" OR "rtika" OR "seaaroundus"
+"rtika" "Goodman"
 "sofa" "couchdb"
 "spelling" "ooms"
 "ssh" "ooms" "package"

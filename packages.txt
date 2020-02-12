@@ -171,9 +171,7 @@ rif
 rinat
 ritis
 RNeXML
-rnpn
 rtika
-seaaroundus
 sofa
 spelling
 ssh
