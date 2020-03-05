@@ -271,3 +271,5 @@ osfr
 taxadb
 lightr
 Rclean
+dbparser
+parzer

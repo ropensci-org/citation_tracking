@@ -145,3 +145,5 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "taxadb"
 "lightr" "Gruson"
 "Rclean" "Lau"
+"dbparser" "package" "Ali"
+"parzer" "Chamberlain" "package"
