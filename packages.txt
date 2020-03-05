@@ -134,7 +134,6 @@ FedData
 finch
 fingertipsR
 fulltext
-gender
 geoaxe
 geojson
 geojsonlint

@@ -36,7 +36,6 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "finch" "chamberlain" AND "r development core team" OR "r core team" AND "package"
 "fingertipsR"
 "fulltext" AND "r development core team" OR "r core team" AND "package" -"download fulltext"
-"gender" "mullen" "package" AND "r development core team" OR "r core team" 
 "geoparser" OR "gutenbergr" OR "historydata" OR "hoardr" AND "package" AND "r development core team" OR "r core team" 
 "graphql" "ooms"
 "geoaxe" OR "geojson" OR "geojsonlint"
