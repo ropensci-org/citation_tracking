@@ -273,3 +273,4 @@ lightr
 Rclean
 dbparser
 parzer
+mapscanner
