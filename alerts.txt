@@ -148,3 +148,6 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "dbparser" "package" "Ali"
 "parzer" "Chamberlain" "package"
 "mapscanner" "Padgham"
+"dittodb"
+"ruODK"
+"chirps" "package" "de Sousa"

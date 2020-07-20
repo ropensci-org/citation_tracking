@@ -12,7 +12,7 @@ all <- unique(c(using, donttrack))
 
 url <- "https://raw.githubusercontent.com/ropensci/roregistry/gh-pages/registry.json"
 df <- fromJSON(url)
-(pkgs <- tbl_df(df$packages) %>%
+(pkgs <- tibble::as_tibble(df$packages) %>%
   # filter(on_cran, !cran_archived) %>%
   # filter(!cran_archived) %>%
   filter(name != "pleiades") %>%

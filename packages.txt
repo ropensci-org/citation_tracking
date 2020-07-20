@@ -274,3 +274,6 @@ Rclean
 dbparser
 parzer
 mapscanner
+dittodb
+ruODK
+chirps
