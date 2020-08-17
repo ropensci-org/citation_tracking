@@ -1,5 +1,5 @@
-library(jsonlite)
-library(dplyr)
+suppressPackageStartupMessages(library(jsonlite, quietly = TRUE))
+suppressPackageStartupMessages(library(dplyr, quietly = TRUE))
 
 # pkgs we're tracking
 using <- tolower(sort(readLines("packages.txt")))
@@ -19,4 +19,5 @@ df <- fromJSON(url)
   .$name %>% sort %>% tolower)
 
 # compare
+cat("\n")
 cat(pkgs[!pkgs %in% all], sep = "\n")
