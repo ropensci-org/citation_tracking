@@ -51,7 +51,6 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 ("onekp" OR "paleobioDB") AND "r development core team"
 "pleiades" "R development core team" -"pleiades publishing"
 "pubchunks" OR "rbraries"
-"rAvis" "package"
 "rdflib" "boettiger"
 "riem" OR "rif" OR "rinat" OR "ritis" OR "RNeXML" "r development core team"
 "rtika" "Goodman"

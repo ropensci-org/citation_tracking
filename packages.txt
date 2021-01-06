@@ -162,7 +162,6 @@ paleobioDB
 plater
 pleiades
 pubchunks
-rAvis
 rbraries
 rdflib
 riem
