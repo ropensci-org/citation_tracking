@@ -283,3 +283,5 @@ taxlist
 rgnparser
 phonfieldwork
 mcbette
+coder
+allcontributors

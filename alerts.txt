@@ -157,3 +157,5 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "rgnparser"
 "phonfieldwork"
 "mcbette" bilderbeek
+"coder" "Bulow" "package"
+"allcontributors" "package"
