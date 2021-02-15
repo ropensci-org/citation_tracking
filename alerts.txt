@@ -161,3 +161,5 @@ aRxiv broman AND "r development core team" OR "r core team" -qtl
 "allcontributors" "package"
 "targets" "Landau" "r development core team" "package"
 "tarchetypes" "Landau" "package"
+"osmextract"
+"rcol" "chamberlain" "package"

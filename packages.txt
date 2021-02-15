@@ -287,3 +287,5 @@ coder
 allcontributors
 targets
 tarchetypes
+osmextract
+rcol
